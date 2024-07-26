@@ -15,3 +15,8 @@
 ![IMG_20240726_165237](https://github.com/user-attachments/assets/20a42494-066b-40e7-8e9d-c2f2fed670b8)
 
 ![IMG_20240726_165256](https://github.com/user-attachments/assets/2c75d128-abfb-48a3-aa1f-dff673bd5868)
+
+![IMG_20240726_165315](https://github.com/user-attachments/assets/6b75585e-3b45-49bf-9f9d-329e9e123dee)
+
+![IMG_20240726_165346](https://github.com/user-attachments/assets/d460c530-8a01-4878-adc7-b8cf76cbbc44)
+
