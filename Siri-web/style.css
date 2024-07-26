@@ -1,0 +1,126 @@
+body {
+   width: 900px;
+   height: 800px;
+   margin-left: 15%; 
+   margin-top: -7%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: aquamarine ;
+}
+.app{
+  box-sizing: border-box;
+  border-radius: 2px;
+  padding: 60px;
+  margin-left: 40px;
+  margin-right: 40px;
+  width: 900px;
+  height: 600px;
+  background: #f5f5dc;
+  box-shadow: 10px 10px;
+  border: 1px solid black;
+  
+}
+.app h1{
+  color: brown;
+  font-size: 70px;
+  margin-top: -20px;
+  padding-bottom: 20px;
+  border-bottom: 2px solid black;
+}
+#answer-buttons{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 10px;
+  margin: 15px;
+}
+.btn{
+  background: lavender;
+  border-radius: 27px;
+  padding: 10px;
+  font-size: 23px;
+  color: purple;
+  font-border: red;
+  font-family: cursive ;
+  border-color: orange;
+  border-width: 5px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+.btn:hover:not([disabled]){
+  background: black;
+  color: white;
+}
+.btn:disabled{
+  cursor: no-drop;
+}
+
+.quiz {
+  color: chocolate;
+  font-family: cursive ;
+  font-weight: bold;
+  font-size: 17px;
+  margin-top: -10px;
+}
+
+#next-btn{
+  background: pink;
+  color: indigo;
+  font-size: 25px;
+  font-weight: bold;
+  width: 150px;
+  padding: 10px;
+  margin-left: 38%;
+  margin-top: 2%;
+  border-radius: 15px;
+  cursor: pointer;
+  display: "none";
+  text-align: center;
+  justify-content: center;
+  border-color: #ffa07a;
+  border-width: 9px;
+}
+#next-btn:hover{
+  background: #000000;
+  color: #f5f5dc
+}
+.correct{
+  background: #9aeabc;
+}
+.incorrect{
+  background: #ff9393;
+}
+#start-button{
+  background:#ffbad9 ;
+  color: #008080 ;
+  padding:16px;
+  margin:30px;
+  margin-left: 250px;
+  padding-left: 40px;
+  padding-right: 40px;
+  text-align: center;
+  font-family: fancy;
+  font-size :30px;
+  font-weight: bold;
+  cursor: pointer;
+  border-color: #db7093;
+  border-width: 13px;
+  border-radius: 15px;
+}
+#start-button:hover{
+  background: black;
+  color: white;
+}
+#wel{
+  color: #fa8072;
+  text-align: center;
+  font-family: fancy;
+  font-size :100px;
+  font-weight: bold;
+  margin-left: 0px;
+  margin-top: 45px;
+  margin-bottom: 60px;
+}
+#h3{
+  display
+}
